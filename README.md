@@ -1,5 +1,5 @@
 # week-2-
-# self introduce
+# self introduce 2810ICT
 My name is **Dobi Moon** 
 studying Bachelor of IT 
 in **Griffith University**.
